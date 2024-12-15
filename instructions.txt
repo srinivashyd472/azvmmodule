@@ -1,0 +1,6 @@
+Before deploying we have to create 
+
+1:Resource Group
+2:Storage Account 
+
+"with predefined values in module"
